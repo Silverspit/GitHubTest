@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, Git!");
         System.out.println("Version 1");
         System.out.println("asdasdasd");
+        System.out.println("test test");
     }
 }
